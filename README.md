@@ -6,7 +6,7 @@
 
 ### Project Details
 
-For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
+For this project, we train an agent to navigate (and collect bananas) in a large, square world.  
 
 ![Trained Agent][image1]
 
@@ -22,13 +22,12 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 ### Getting Started
 
-1. Download the environment from one of the links below.
+Download the environment from one of the links below.
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
-2. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file. 
 
 ### Instructions
 

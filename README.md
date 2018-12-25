@@ -25,17 +25,17 @@ The task is episodic, and in order to solve the environment, the agent must get 
 ### Getting Started
 
 Download the environment from one of the links below.
-    - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
-    - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
-    - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
-    - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+    - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)<br>
+    - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)<br>
+    - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)<br>
+    - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)<br>
 
 ### Instructions
 
 Run file `Navigation.ipynb` to run the agent.  
 
 ### Files
-Saved model weights are in file `checkpoint.pth`
-
-See `REPORT.md` for description of implementation, results, and ideas for future work.
+Saved model weights are in file `checkpoint.pth` <br>
+See `dqn.png` for plot of rewards.<br>
+See `REPORT.md` for description of implementation, results, and ideas for future work.<br>
 

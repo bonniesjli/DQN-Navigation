@@ -34,7 +34,7 @@ Learning rate = 5e-4<br>
 
 ### Plot of Rewards
 
-Format: ![Alt Text](https://github.com/bonniesjli/DQN-Navigation_UnityML/blob/master/dqn.png)
+![Alt Text](https://github.com/bonniesjli/DQN-Navigation_UnityML/blob/master/dqn.png)
 
 ### Ideas for Future Work
 To employ more techniques in Deep Q Learning for better performance. This includes:

@@ -39,3 +39,8 @@ Saved model weights are in file `checkpoint.pth` <br>
 See `dqn.png` for plot of rewards.<br>
 See `REPORT.md` for description of implementation, results, and ideas for future work.<br>
 
+### Reference
+* "Human-level control through deep reinforcement learning", Mnih et al, 2015<br>
+https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf <br>
+* Github Repository `deep-reinforcement-learning`, Udacity. <br>
+https://github.com/udacity/deep-reinforcement-learning<br>

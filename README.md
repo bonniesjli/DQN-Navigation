@@ -39,7 +39,7 @@ Run file `Navigation.ipynb` to run the agent.
 * `Navigation.ipynb` - load the environment explore the environment, train the agent or run the trained agent
 * `agent.py` contains the agent class 
 * `model.py` contains the neural network models the agents employ. 
-* `checkpoint.pth` conatins<br>
+* `checkpoint.pth` contains trained model weights <br>
 * `REPORT.md` contains description of implementation, results, and ideas for future work.<br>
 
 ### Reference

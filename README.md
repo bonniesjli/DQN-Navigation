@@ -2,7 +2,7 @@
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
 
-# Project 1: Navigation
+# DQN for Navigation UnityML
 
 This is an implementation of Deep Q Networks (Mnih et al, 2015) for the banana navigation environment in UnityML.
 
@@ -45,5 +45,3 @@ Run file `Navigation.ipynb` to run the agent.
 ### Reference
 * "Human-level control through deep reinforcement learning", Mnih et al, 2015<br>
 https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf <br>
-* Github Repository `deep-reinforcement-learning`, Udacity. <br>
-https://github.com/udacity/deep-reinforcement-learning<br>
